@@ -1,6 +1,41 @@
-# Welcome to Remix!
+# Opinionated [Remix](https://remix.run/docs) Starter Template
 
-- [Remix Docs](https://remix.run/docs)
+This is an opinionated remix starter template with the following opinions
+
+- Adapter - [Express](https://expressjs.com/)
+- CSS - [TailwindCSS](https://tailwindcss.com/)
+- Node version manager - [nvm](https://github.com/nvm-sh/nvm)
+
+To start a remix project with this template, run
+
+```sh
+npx create-remix@latest --template iamzee/remix-starter
+```
+
+## Prerequisite
+
+This project uses [nvm](https://github.com/nvm-sh/nvm) as a node version manager. Before running any npm command, make sure you are in the correct node environment (specified in `.nvmrc` file)
+
+To install the node with the version specified in `.nvmrc`, run:
+
+```sh
+nvm install
+```
+
+This will automatically detect the .nvmrc file and install the specified node version.
+
+Now, to use that node version, run:
+
+```sh
+nvm use
+```
+
+You can verify the node version, by running:
+
+```sh
+node --version
+```
+
 
 ## Development
 
