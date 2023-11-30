@@ -36,7 +36,6 @@ You can verify the node version, by running:
 node --version
 ```
 
-
 ## Development
 
 Start the Remix development asset server and the Express server by running:
