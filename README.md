@@ -2,9 +2,10 @@
 
 This is an opinionated remix starter template with the following opinions
 
-- Adapter - [Express](https://expressjs.com/)
-- CSS - [TailwindCSS](https://tailwindcss.com/)
-- Node version manager - [nvm](https://github.com/nvm-sh/nvm)
+- 💻 [Express](https://expressjs.com/) adapter
+- 🎨 [TailwindCSS](https://tailwindcss.com/)
+- 🧑‍💼 Node version manager - [nvm](https://github.com/nvm-sh/nvm)
+- 🦋 [Prettier](https://prettier.io/)
 
 To start a remix project with this template, run
 
