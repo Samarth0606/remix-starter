@@ -69,3 +69,8 @@ If you're familiar with deploying express applications you should be right at ho
 
 - `build/`
 - `public/build/`
+
+
+### Todo
+
+- [ ] Add light/dark mode toggle
